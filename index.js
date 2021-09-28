@@ -12,7 +12,7 @@ console.log("------------------------------------")}
 var questions=[
   { question: 'Youtube is owned by which company??' ,
     answer:'Google'},
-  { question:'On how many subscribers(in numbers) does a youtuber gets silver button??' ,
+  { question:'On how many subscribers does a youtuber gets silver button- 50 thousand, lakh or million??' ,
     answer:'million'},
   { question:'In which year did youtube started premium subscription??' ,
     answer: '2018'},
